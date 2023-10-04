@@ -1,1 +1,2 @@
-# DIWinFormsSample
+# Dependency Injection In .NET 6 For Windows Forms Development
+Dependency Injection (DI) is a fundamental concept in modern software development that helps manage the complexity of large applications by promoting loose coupling between components. It’s widely used in .NET applications, including WinForms, to improve maintainability, testability, and code reuse. In this article, we’ll explore how to implement Dependency Injection in a .NET 6 Windows Forms application with real-world examples.
